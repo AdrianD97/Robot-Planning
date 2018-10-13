@@ -1,6 +1,6 @@
 		# Robot-Planning
 
-	The program controls the behavior of some robots. In a warehouse there are robots responsabile for moving the boxes. Robots receive orders to collect/deliver the boxes.
+	The program controls the behavior of some robots. In a warehouse there are robots responsible for moving the boxes. Robots receive orders to collect/deliver the boxes.
 
 	The commands are :
 		1. ADD_GET_BOX/ADD_DROP_BOX RobotId x y NrBoxexs priority
