@@ -1,4 +1,4 @@
-		# Robot-Planning
+		# Robot-Planning, university project
 
 	The program controls the behavior of some robots. In a warehouse there are robots responsible for moving the boxes. Robots receive orders to collect/deliver the boxes.
 
